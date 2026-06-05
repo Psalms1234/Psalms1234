@@ -74,8 +74,8 @@
 
 ## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/dennis-gilbert-393aa6198/
-- **Email:** <your-email>  
+- **LinkedIn:** linkedin.com/in/sam-agboola789/
+- **Email:** samuel.agboola789@gmail.com  
 
 ---
 

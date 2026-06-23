@@ -55,7 +55,7 @@
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
+
 | 02-IAM-On-Prem-Using-Active-Directory | Installing and hardening Active Directory | [View Repo](#) |
 | 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/Psalms1234/AWS-Repo) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
